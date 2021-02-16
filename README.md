@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Multi platform app using Flutter framework. 
+Name suggestions generator with favorites list page.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
